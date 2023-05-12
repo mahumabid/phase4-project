@@ -49,15 +49,25 @@ The MovieLens Latest Small dataset, which is a collection of ratings and metadat
 
 The dataset is skewed as certain users have contributed significantly more data than others. Specifically, two users who favored the drama genre made up almost 5% of the entire dataset. As a result, their preferences may have influenced their ratings for other genres, and they may have rated dramas and comedies higher due to their personal preference.
 
+![top5_user474](https://github.com/mahumabid/phase4-project/assets/122308796/2f5c1de1-c51a-46fb-a328-f4572bd3ee81)
+![top5_user414](https://github.com/mahumabid/phase4-project/assets/122308796/ccbda24d-21ff-4b9f-b631-a22658f90f4e)
+
+
 
 
 #### Ratings by Top 100 Users:
 
 The distribution of ratings in the dataset is heavily skewed towards positive ratings. About 60% of the ratings are 4 stars or higher, which indicates that users in the dataset generally enjoyed the movies they watched.
 
+![top100](https://github.com/mahumabid/phase4-project/assets/122308796/a13bf2bf-71a0-45ac-a521-843b76df6b03)
+
+
 #### Average viewers by Top 10 Genres:
 
 The data limitations have caused a skew in the number of views for each genre. Although documentaries may not be the most popular genre, we believe that with sufficient data from a diverse set of users, it could gain popularity.
+
+![AvgNumViews_Genre](https://github.com/mahumabid/phase4-project/assets/122308796/826fe174-1878-4445-8fb9-6e0c27710131)
+
 
 ## Conclusion
 
